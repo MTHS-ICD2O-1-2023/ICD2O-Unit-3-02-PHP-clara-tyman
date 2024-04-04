@@ -1,4 +1,37 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+
+/* Created by: Clara Tyman
+* Created on: April 2024
 * This file contains the CSS for index.html
 */
+
+body {
+  background-color: plum;
+}
+
+.content {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+.column-2 {
+  float: right;
+  width: 50%;
+}
+
+.volume-formula {
+  width: 400px;
+}
+
+
+.mdl-layout-title {
+  padding-left: 450px;
+}
+
+.page-content-php {
+  padding-left: 20px;
+}
