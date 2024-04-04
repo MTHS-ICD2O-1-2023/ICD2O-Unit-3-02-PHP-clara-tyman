@@ -40,7 +40,7 @@
       // output
       echo "<br />";
       echo (round($volume, 2) . " cm³" . " is the volume of the pyramid ");
-      ?>
+        ?>
     </div>
   </div>
   <div class="column-2">
